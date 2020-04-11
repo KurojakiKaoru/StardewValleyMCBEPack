@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§o§dResource Pack for the Stardew Valley Script. \n§l§bVersion: §a1.0.0",
-        "name": "§l§cStardew Valley",
+        "description": "§o§dExperience the feel of Stardew Valley in Minecraft.§r \n§l§bVersion:§r §a1.0.0§r \n§l§bBy:§r §aKurojaki Kaoru",
+        "name": "§l§6Stardew Valley",
         "uuid": "57c4e4a6-3093-462a-9c36-dbb052167484",
         "version": [1, 0, 0],
         "min_engine_version": [1, 14, 0]
