@@ -1,0 +1,506 @@
+{
+  "music.menu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/mainmenu/menu1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/mainmenu/menu2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/mainmenu/menu3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/spring1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/spring2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/spring3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines4",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines5",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines6",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines7",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines8",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines9",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines10",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track4",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.creative": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/spring1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/spring2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/spring3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/summer3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/fall3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/winter3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines4",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines5",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines6",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines7",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines8",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines9",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines10",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track4",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.end": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/end/end",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.endboss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/end/boss",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.nether": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/mines1",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines2",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines3",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines4",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines5",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines6",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines7",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines8",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines9",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/mines10",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.credits": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/game/end/credits",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "ui.loom.select_pattern": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/ui/loom/select_pattern1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern3",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern4",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern5",
+        "volume": 1
+      }
+    ]
+  },
+  "ui.loom.take_result": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/ui/loom/take_result1",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/ui/loom/take_result2",
+        "volume": 0.5
+      }
+    ]
+  },
+  "ui.stonecutter.take_result": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/ui/stonecutter/cut1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/stonecutter/cut1",
+        "volume": 1,
+        "pitch": 0.92
+      },
+      {
+        "name": "sounds/ui/stonecutter/cut2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/stonecutter/cut2",
+        "volume": 1,
+        "pitch": 0.92
+      }
+    ]
+  }
+}
