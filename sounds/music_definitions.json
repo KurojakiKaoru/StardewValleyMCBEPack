@@ -16,8 +16,8 @@
   },
   "endboss": {
     "event_name" : "music.game.endboss",
-    "min_delay": 200,
-    "max_delay": 600
+    "min_delay": 0,
+    "max_delay": 0
   },
   "nether": {
     "event_name" : "music.game.nether",

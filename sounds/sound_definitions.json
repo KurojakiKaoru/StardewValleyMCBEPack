@@ -1,4 +1,45 @@
 {
+  "mob.bat.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/bat/idle"
+    ]
+  },
+  "mob.bat.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/bat/idle"
+    ]
+  },
+  "mob.bat.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/bat/idle"
+    ]
+  },
+  "game.player.hurt": {
+    "category": "player",
+    "sounds": [
+      "sounds/damage/hurt"
+    ]
+  },
+  "game.player.die": {
+    "category": "player",
+    "sounds": [
+      "sounds/damage/death"
+    ]
+  },
+  
+  "random.levelup": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/random/levelup",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  
   "music.menu": {
     "category": "music",
     "sounds": [
@@ -348,9 +389,15 @@
     "category": "music",
     "sounds": [
       {
-        "name": "sounds/music/game/end/end",
+        "name": "sounds/music/game/final_overworld",
         "stream": true,
-        "volume": 0.2,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/final_theoutlaw",
+        "stream": true,
+        "volume": 1.0,
         "load_on_low_memory": true
       }
     ]
@@ -359,9 +406,9 @@
     "category": "music",
     "sounds": [
       {
-        "name": "sounds/music/game/end/boss",
+        "name": "sounds/music/game/final_boss",
         "stream": true,
-        "volume": 0.3,
+        "volume": 1.0,
         "load_on_low_memory": true
       }
     ]
