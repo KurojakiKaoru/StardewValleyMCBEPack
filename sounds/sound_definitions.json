@@ -221,6 +221,36 @@
         "stream": true,
         "volume": 1.0,
         "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track5",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track6",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track7",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track8",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track9",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
       }
     ]
   },
@@ -382,6 +412,36 @@
         "stream": true,
         "volume": 1.0,
         "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track5",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track6",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track7",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track8",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/music/game/track9",
+        "stream": true,
+        "volume": 1.0,
+        "load_on_low_memory": true
       }
     ]
   },
@@ -486,67 +546,6 @@
         "stream": true,
         "volume": 1.0,
         "load_on_low_memory": true
-      }
-    ]
-  },
-  "ui.loom.select_pattern": {
-    "category": "ui",
-    "sounds": [
-      {
-        "name": "sounds/ui/loom/select_pattern1",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/loom/select_pattern2",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/loom/select_pattern3",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/loom/select_pattern4",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/loom/select_pattern5",
-        "volume": 1
-      }
-    ]
-  },
-  "ui.loom.take_result": {
-    "category": "ui",
-    "sounds": [
-      {
-        "name": "sounds/ui/loom/take_result1",
-        "volume": 0.5
-      },
-      {
-        "name": "sounds/ui/loom/take_result2",
-        "volume": 0.5
-      }
-    ]
-  },
-  "ui.stonecutter.take_result": {
-    "category": "ui",
-    "sounds": [
-      {
-        "name": "sounds/ui/stonecutter/cut1",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/stonecutter/cut1",
-        "volume": 1,
-        "pitch": 0.92
-      },
-      {
-        "name": "sounds/ui/stonecutter/cut2",
-        "volume": 1
-      },
-      {
-        "name": "sounds/ui/stonecutter/cut2",
-        "volume": 1,
-        "pitch": 0.92
       }
     ]
   }
