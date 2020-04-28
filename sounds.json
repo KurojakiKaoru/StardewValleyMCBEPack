@@ -28,8 +28,8 @@
     },
     "entities": {
       "bat": {
-        "volume": 0.1,
-        "pitch": [ 0.76, 1.14 ],
+        "volume": 1.0,
+        "pitch": [ 0.9, 1.1 ],
         "events": {
           "ambient": "mob.bat.idle",
           "hurt": "mob.bat.hurt",
@@ -37,7 +37,7 @@
           "takeoff": {
             "sound": "mob.bat.takeoff",
             "volume": 0.05,
-            "pitch": [ 0.8, 1.2 ]
+            "pitch": [ 0.9, 1.1 ]
           }
         }
       },
